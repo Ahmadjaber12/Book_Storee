@@ -1,0 +1,75 @@
+﻿.cb{ width:300px;
+     padding:0 0 20px 0;
+}
+body{ margin:auto;
+      width:80%;
+      display:flex;
+      flex-wrap:wrap;
+      align-content:center;
+      justify-content:space-between;
+    background-image:url("pic/ahmad.jpg");
+    background-size:cover;
+    background-size:85vh;
+    height:80%;
+}
+.label2 { color:red;
+    display:none;
+
+}
+.mm{ position:absolute;
+     right:50%;
+     bottom:-117%;
+    display:inline;
+    color:red;
+    
+    font-size:20px;
+    
+    
+}
+#form1{
+    display:flex;
+    justify-content:flex-end;
+    
+}
+
+section {width:1206px;
+    background-color:antiquewhite; 
+         background-color:rgba(0,0,0,.5);
+         color:aliceblue;
+         font-size:20px;
+    top:35%;
+    border:solid 2px white;
+    border-radius:5px;
+    right:-11%;
+          position:absolute;
+    display: flex;
+left:9%;
+    flex-wrap: wrap;
+    height: 1500px;
+}
+#label1{position:absolute;
+    top: 42px;
+    height: 46px;
+    width: 508px;
+    right:30%;
+    color:white;
+    font-size:40px;
+}
+
+#HyperLink1 {
+    position: relative;
+    top: 1715px;
+    margin: auto;
+}
+.cc {
+    position: relative;
+    top: 1715px;
+    left: 30%;
+    background-color: #ffff;
+    border-radius: 4px;
+}
+#SAVE {
+    position: relative;
+    left: 20%;
+    top: 1715px;
+}
